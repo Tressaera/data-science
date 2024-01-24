@@ -1,0 +1,30 @@
+/* Navbar #f5971d Turuncu #231f20 siyah*/
+.navbar-default {
+background-color: #7c2c3b;
+}
+.navbar-default
+.navbar-brand:focus, 
+.navbar-default 
+.navbar-brand:hover {
+color: #2dafe5;
+background-color: transparent;
+}
+.navbar-default .navbar-brand (
+color: #2dafe5;
+}
+.navbar-default 
+.navbar-nav>.active>a, 
+.navbar-default .navbar-nav>.active>a
+:focus, 
+.navbar-default .navbar-nav>.active>a:hover {
+color: #7c2c3b;
+background-color:#2dafe5;
+}
+.navbar-default .navbar-nav>li>a {
+color: #2dafe5;
+}
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a
+:hover {
+color: #2dafe5;
+background-color: transparent;
+}

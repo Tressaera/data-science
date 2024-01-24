@@ -1,0 +1,12 @@
+name: new_project
+title: new_project
+username: examp
+account: examp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11011777
+bundleId: 8176852
+url: https://examp.shinyapps.io/new_project/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

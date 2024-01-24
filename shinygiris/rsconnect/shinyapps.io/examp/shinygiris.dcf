@@ -1,0 +1,12 @@
+name: shinygiris
+title: shinygiris
+username: examp
+account: examp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10928199
+bundleId: 8146068
+url: https://examp.shinyapps.io/shinygiris/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
